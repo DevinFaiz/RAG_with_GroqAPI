@@ -32,17 +32,17 @@ To evaluate and compare the different models, each was presented with the same p
 The evidence of each model's response, corresponding to the specified model and temperature setting, is documented below with references to image captures:
 
 1. llama-3.3-70b-versatile (Temperature: 0.2) 
-![Llama 3.3 70b (Temp 0.2) Output](image/img_lm_02.png)
+![Llama 3.3 70b (Temp 0.2) Output](image/img_lm_02.jpg)
 2. llama-3.3-70b-versatile (Temperature: 0.8)
-![Llama 3.3 70b (Temp 0.8) Output](image/img_lm_08.png)
+![Llama 3.3 70b (Temp 0.8) Output](image/img_lm_08.jpg)
 3. deepseek-r1-distill-llama-70b (Temperature: 0.2)
-![Deepseek R1 Distill Llama 70b (Temp 0.2) Output](image/img_dp_02.png)
+![Deepseek R1 Distill Llama 70b (Temp 0.2) Output](image/img_dp_02.jpg)
 4. deepseek-r1-distill-llama-70b (Temperature: 0.8)
-![Deepseek R1 Distill Llama 70b (Temp 0.8) Output](image/img_dp_08.png)
+![Deepseek R1 Distill Llama 70b (Temp 0.8) Output](image/img_dp_08.jpg)
 5. gemma2-9b-it (Temperature: 0.2)
-![Gemma2 9b IT (Temp 0.2) Output](image/img_gm_02.png)
+![Gemma2 9b IT (Temp 0.2) Output](image/img_gm_02.jpg)
 6. gemma2-9b-it (Temperature: 0.8)
-![Gemma2 9b IT (Temp 0.8) Output](image/img_gm_08.png)
+![Gemma2 9b IT (Temp 0.8) Output](image/img_gm_08.jpg)
 
 ### 2. Analysis about how different every model works on Retrieval-Augmented Generation
 
